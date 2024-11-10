@@ -1,8 +1,8 @@
 {
-    "url": "https://tsx-ninja.github.io/test.yaml",
+    "url": "https://github.com/tsx-ninja/test/blob/main/test.json",
     "urls": [
         {
-            "url": "https://tsx-ninja.github.io/test.yaml",
+            "url": "https://github.com/tsx-ninja/test/blob/main/test.json",
             "name": "Foo"
         }
     ]
